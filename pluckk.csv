@@ -1,0 +1,341 @@
+SKU,UOM,id,product_id,Max price,Discounted price
+Tomato Hybrid [Ozone-Washed],1 Kg,169,206,32,30
+Tomato Hybrid [Ozone-Washed],500 Gms,375,206,16,16
+Tomato Hybrid [Ozone-Washed],2 Kg,326,206,65,56
+Tomato Country,1 Kg,572,338,41,39
+Tomato Country,500 Gms,345,338,20,20
+Tomato Green,500 Gms,325,326,53,53
+Onion,1 KG,27,67,38,36
+Onion,500 Gms,1388,67,19,19
+Onion,2 Kg,668,67,77,68
+"OTP Kit [Onion, Tomato, Potato]",3 Kg,191,230,125,121
+Potato,1 Kg,286,297,59,59
+Potato,2 Kg,669,297,118,112
+Baby Potato,500 Gms,205,258,39,37
+Baby Potato,250 Gms,672,258,20,20
+Baby Potato,1 Kg,826,258,79,70
+Spinach [Palak],250 Gm,35,75,38,24
+Spinach [Palak],500 Gms,595,75,76,46
+Spinach [Palak],1 Kg,747,75,152,87
+Chopped Spinach,250 Gms,1115,649,109,109
+Fenugreek [Methi],250 Gms,233,246,56,52
+Fenugreek [Methi],500 Gms,748,246,111,102
+Fenugreek [Methi],100 Gms,232,246,22,22
+Chopped Methi,100 Gms,1261,748,49,49
+Chopped Methi,250 Gms,1260,748,122,122
+Amaranthus Red,250 Gms,160,196,41,41
+Basil Leaves,100 Gms,815,149,29,28
+Basil Leaves,50 Gms,81,149,15,15
+Basil Leaves,250 Gms,814,149,73,65
+Hydroponic Basil Leaves,50 Gms,365,153,20,20
+Hydroponic Basil Leaves,100 Gms,832,153,40,38
+Amaranthus Green,250 Gms,159,195,44,44
+Amaranthus Green,500 Gms,749,195,88,83
+Amaranthus Green,1 Kg,750,195,176,162
+Lady Finger [Bhindi],250 Gms,680,160,26,26
+Lady Finger [Bhindi],500 Gms,142,160,52,49
+Diced Lady Finger,200 Gms,290,267,40,40
+Diced Lady Finger,500 Gms,838,267,101,95
+Lady Finger Kali,250 Gms,681,548,50,50
+Lady Finger Kali,500 Gms,662,548,100,94
+Lady Finger Kali,1 Kg,663,548,200,178
+Carrot Orange [English],250 Gms (4-5 pcs),684,156,19,19
+Carrot Orange [English],500 Gms (9-10 pcs),88,156,38,36
+Carrot Juliennes,250 Gms,696,564,46,48
+Ooty Carrot,250 Gms,930,157,25,25
+Ooty Carrot,500 Gms,87,157,50,47
+Cauliflower,1 Pc (400-600 Gms each),92,138,56,56
+Cauliflower,2 pc x (400-600 Gms each),580,138,111,104
+Cauliflower Florets,200 Gms,91,137,46,46
+Capsicum Green [Ozone-Washed],250 Gms (2-3 pcs),743,253,32,32
+Capsicum Green [Ozone-Washed],500 Gms (4-5 pcs),207,253,64,61
+Cucumber Green [Ozone-Washed],(500-600 Gms),140,164,62,59
+Cucumber Green [Ozone-Washed],(250-350 Gms),677,164,31,31
+Cucumber Green [Ozone-Washed],1 Kg,579,164,125,111
+Cucumber Green [Ozone-Washed],2 Kg,756,164,250,217
+Cucumber White [Ozone - Washed],250 Gms,679,152,24,24
+Cucumber White [Ozone - Washed],500 Gms,98,152,47,44
+Cucumber White [Ozone - Washed],1 Kg,755,152,94,83
+Cucumber European,250 Gms,676,161,19,19
+Cucumber European,500 Gms,132,161,38,36
+Cucumber European,1 Kg,754,161,77,68
+Cucumber Madras,1 Pc (400-700 Gms),212,244,94,89
+Cabbage,1 Pc (500 - 600 Gms),9,49,25,25
+Brinjal Bharta,250 Gms,744,240,25,25
+Brinjal Bharta,500 Gms,218,240,50,47
+Beetroot [Chukandar],500 Gms (4-5 pcs),596,90,58,54
+Beetroot [Julienne Cut],200 Gms,315,316,43,43
+Beetroot [Julienne Cut],500 Gms,844,316,108,101
+Green Peas,250 Gms,1372,252,57,57
+Green Peas,500 Gms,247,252,115,113
+Shelled Green Peas,250 Gms,874,610,169,169
+Frozen Green Peas,1 Kg,238,290,175,175
+Drumstick [Moringa],250 Gms,217,288,30,30
+Drumstick [Moringa],500 Gms,820,288,60,56
+Drumstick [Moringa],1 Kg,819,288,120,106
+Cut Drumstick,200 Gms,221,289,49,49
+Colocasia [Arbi],250 Gms,235,243,29,29
+Colocasia [Arbi],500 Gms,824,243,57,54
+Coconut [Medium],1 Pc (450-500 Gms),231,248,53,53
+Coconut [Large],1 Pc x (600 Gms),295,307,55,55
+Grated Coconut,200 Gms,234,264,49,49
+American Sweet Corn,2 Pcs,802,140,75,70
+American Sweet Corn,1 Pc,350,140,37,37
+Shelled American Sweet Corn,250 Gms,67,141,66,66
+Frozen Sweet Corn,1 Kg,240,292,200,200
+Onion Sambhar,250 Gms,259,260,46,46
+Onion Sambhar,500 Gms,1021,260,91,86
+Coriander [Dhaniya Patta],100 Gms,19,59,34,34
+Coriander [Dhaniya Patta],250 Gms,785,59,86,80
+Chopped Coriander,100 Gms,1259,747,65,65
+Chopped Coriander,250 Gms,1258,747,163,163
+Lemon [Ozone-Washed],250 Gms,173,204,88,86
+Lemon [Ozone-Washed],100 Gms,1379,204,35,35
+Ginger [Adrak] [Ozone-Washed],100 Gms,791,250,25,25
+Ginger [Adrak] [Ozone-Washed],250 Gms,790,250,63,59
+Ginger [Adrak] [Ozone-Washed],500 Gms,592,250,125,111
+Chopped Ginger (Adrak) [Ozone-Washed],100 Gms,795,265,42,42
+Chopped Ginger (Adrak) [Ozone-Washed],200 Gms,244,265,83,83
+Thai Ginger,100 Gms,1383,651,66,66
+Thai Ginger,250 Gms,1117,651,166,156
+Chilli Dark Green,100 Gms,226,249,56,55
+Chilli Dark Green,50 Gms,1373,249,28,28
+Chilli Dark Green,250 Gms,780,249,140,130
+Chilli Dark Green,500 Gms,781,249,280,244
+Chilli Light Green,50 Gms,1374,256,17,17
+Chilli Light Green,100 Gms,227,256,35,33
+Chilli Light Green,250 Gms,783,256,87,78
+Chilli Light Green,500 Gms,782,256,175,152
+Bajji Chilli,250 Gms,324,322,42,42
+Garlic [Lehsun],100 Gms,241,251,43,43
+Garlic [Lehsun],250 Gms,597,251,106,100
+Garlic [Lehsun],500 Gms,792,251,213,189
+Peeled Garlic,100 Gms,242,257,82,82
+Spring Onion,200 Gms,889,254,42,39
+Spring Onion,100 Gms,278,254,21,21
+Mint Leaves [Pudina],100 Gms,257,247,25,25
+Mint Leaves [Pudina],50 Gms,1380,247,13,13
+Mint Leaves [Pudina],200 Gms,594,247,51,50
+Curry Leaves,100 Gms,219,245,33,31
+Curry Leaves,50 Gms,1381,245,17,17
+Lemongrass,50 Gms,1382,165,11,11
+Lemongrass,100 Gms,817,165,22,21
+Lemongrass,250 Gms,818,165,54,47
+Dill Leaves,100 Gms,55,89,35,35
+Dill Leaves,250 Gms,816,89,88,83
+Turmeric Fresh,100 Gms,263,283,24,24
+Thyme,10 Gms,1118,652,9,9
+Rosemary,10 Gms,1119,653,71,71
+Mom's Mini Basket,600 Gms,261,228,209,203
+Mom's Basket,800 Gms,18,58,283,275
+Broccoli,150-200 Gms,82,128,53,53
+Broccoli Florets,250 Gms,8,48,144,144
+Broccoli Florets,500 Gms,915,48,289,271
+Button Mushroom,200 Gms,117,147,89,84
+Button Mushroom,2 x (200 Gms),586,147,96,91
+Capsicum (Yellow + Red) [Ozone-Washed],1 Pc (250 Gms),17,57,99,99
+Capsicum Red [Ozone-Washed],1 Pc (125 Gms),1520,51,52,52
+Capsicum Yellow [Ozone-Washed],1 Pc (125 Gms),1521,262,86,86
+Chopped Capsicum,100 Gms,811,287,103,103
+Chopped Capsicum,200 Gms,214,287,206,206
+Chopped Capsicum,300 Gms,908,287,309,291
+Chopped Red Capsicum [Ozone-Washed],200 Gms,282,268,125,125
+Chopped Yellow Capsicum [Ozone-Washed],200 Gms,129,162,149,149
+Lettuce Iceberg,(250-300 Gms),50,91,60,44
+Cherry Tomato [Red],200 Gms,171,208,55,52
+Cherry Tomato [Red],100 Gms,803,208,28,28
+Cherry Tomato [Red],250 Gms,804,208,69,61
+Celery,100 Gms,54,93,16,16
+Celery,250 Gms,812,93,40,37
+Asparagus,200 Gms,72,109,110,110
+Zucchini Green [Ozone-Washed],1 Pc x (200-250 gms),41,81,81,81
+Cabbage Red,1 pc (250-300 Gms),86,123,31,31
+Cabbage Red,2 pc (250-300 Gms per pc),1070,123,50,47
+Parsley,100 Gms,186,222,39,39
+Parsley,250 Gms,813,222,98,92
+Bottle Gourd,400 - 500 Gms,80,103,43,43
+Tendli (Coccinia),250 Gms,97,100,24,24
+Tendli (Coccinia),500 Gms,598,100,48,45
+Coccinia [Julienne Cut],200 Gms,318,319,40,40
+Coccinia [Julienne Cut],500 Gms,845,319,100,94
+Bitter Gourd [Karela],250 Gms (2-3 pcs),1302,86,36,36
+Bitter Gourd [Karela],500 Gms (3-4 Pcs),58,86,71,70
+Bitter Gourd [Karela],1 Kg (6-8 pcs),589,86,143,132
+Sliced Bitter Gourd (Karela),200 Gms,57,87,46,46
+Sliced Bitter Gourd (Karela),500 Gms,857,87,116,109
+Parval,250 Gms,198,242,37,37
+Parval,500 Gms,599,242,74,70
+Round Gourd [Tinda],250 Gms,777,334,27,27
+Round Gourd [Tinda],500 Gms,340,334,53,50
+Ridge Gourd [Turai],500 Gms,61,107,86,86
+Ridge Gourd [Turai],1 Kg,768,107,173,163
+Ridge Gourd [Turai],2 Kg,769,107,346,307
+Sponge Gourd,500 Gms,774,126,47,44
+Sliced Ash Gourd (Petha),250 Gms,671,286,79,79
+Sliced Ash Gourd (Petha),500 Gms,299,286,158,146
+Snake Gourd,500 Gms,62,99,77,77
+Snake Gourd,1 Kg,770,99,154,146
+Snake Gourd,2 Kg,771,99,309,274
+Cut Snake Gourd,250 Gms,279,299,95,95
+Cut Snake Gourd,500 Gms,848,299,189,178
+Beans French,250 Gms,674,212,89,89
+Beans French,500 Gms,178,212,177,167
+Chopped French Beans,250 Gms,236,272,127,127
+Chopped French Beans,500 Gms,840,272,254,239
+Beans Cluster [Gawar],250 Gms,176,207,34,34
+Beans Cluster [Gawar],500 Gms,764,207,68,64
+Diced Cluster Beans (Guar Phali),200 Gms,229,263,48,48
+Beans Cowpea [Chauli],250 Gms,177,210,33,33
+Beans Cowpea [Chauli],500 Gms,761,210,65,62
+Beans Broad [Chikkidi],250 Gms,175,205,55,55
+Beans Broad [Chikkidi],500 Gms,765,205,109,103
+Mixed Sprouts,200 Gms,163,179,31,31
+Moong Sprouts,200 Gms,148,181,40,40
+Brown Channa Sprouts,200 Gms,157,184,33,31
+Brown Channa Sprouts,100 Gms,158,184,16,16
+Morning Protein Kit,500 Gms,32,72,126,126
+Matki Sprouts,200 Gms,147,183,47,47
+Diced Pumpkin Red,250 Gms,697,565,82,82
+Pumpkin Red,3 Kg,285,298,530,500
+Sliced Pumpkin Red,250 Gms,283,255,82,82
+Sliced Pumpkin Red,500 Gms,1039,255,164,155
+Grated Green Cabbage,200 Gms,327,311,27,27
+Peeled Baby Corn,1 x (250 Gms),203,261,97,97
+Peeled Baby Corn,2 x (250 Gms),821,261,194,183
+Carrot Batonnets,250 Gms,695,563,38,38
+Carrot Batonnets,500 Gms,856,563,77,72
+Cut Carrot Orange + Green Peas,200 Gms,319,320,48,45
+French Beans [Julienne Cut],200 Gms,316,317,102,102
+French Beans [Julienne Cut],500 Gms,841,317,254,239
+Cut Jackfruit Raw ,200 Gms,1634,471,50,50
+Cut Cucumber Green [Ozone-Washed],250 Gms,133,166,53,53
+Cut Cucumber Green [Ozone-Washed],500 Gms,847,166,107,100
+Grated Carrot Orange,200 Gms,329,310,36,36
+Yam,500 Gms,124,116,83,83
+Yam,1 Kg,830,116,165,155
+Cut Yam,200 Gms,122,124,69,69
+Cut Yam,500 Gms,849,124,171,161
+Carrot Orange + French Beans [Julienne cut],200,317,318,108,108
+Carrot Cubes,250 Gms,694,562,46,48
+Sliced Onion,200 Gms,303,315,24,24
+Grated Red Cabbage,200 Gms,328,312,49,49
+Brinjal Nagpur,500 gms,1569,955,38,34
+Brinjal Nagpur,250 gms,1570,955,19,19
+Onion White,500 Gms,197,238,39,39
+Onion White,1 Kg,1022,238,77,72
+Banana Raw,250 Gms (2-3 pcs),673,259,29,29
+Banana Raw,500 Gms (4-5 pcs),211,259,58,54
+Banana Raw,1 Kg (8-10 pcs),920,259,115,102
+Papaya Raw,500-700 Gms,187,221,47,47
+Groundnuts Raw [Moongfalli],250 Gms,22,62,58,58
+Groundnuts Raw [Moongfalli],500 Gms,825,62,116,109
+Banana Flower,1 Pc,297,308,78,78
+Banana Flower,2 Pcs,831,308,156,147
+Triple C Combo,1.5 KG,37,77,92,89
+Frozen Edamame Beans,500 Gms,1288,767,500,500
+Banana Leaf,1 Pc,666,551,28,28
+Banana Leaf,5 Pcs,905,551,140,132
+Weekly Veggie Combo,1.6 KG,39,79,216,210
+Watermelon Kiran,2.5-3 Kg,123,155,106,77
+Sliced Watermelon,500 Gms,690,558,38,38
+Tender Coconut,1 Pc (200-270 ml),272,300,86,86
+Blueberry Premium [Imported],125 Gm,7,47,336,336
+Blueberry,125 gms (1 pack),1568,954,200,149
+Blueberry,250 gms (Pack of 2),1597,954,400,339
+Muskmelon,1 Pc (700-800 Gm),120,154,63,63
+Muskmelon Chunks,500 Gms,691,559,115,115
+Honeydew Muskmelon,1 pc (500- 600gms),1596,979,75,75
+Wood Apple,1 Pc,1612,987,29,29
+Tender Coconut (Pack of 3),Pack of 3,1598,980,259,244
+Banana Robusta,500 Gms (4-5 Pcs),4,44,34,34
+Banana Robusta,1 Kg (8-9 Pcs),43,44,68,64
+Banana Yelakki,250 Gms ,1269,45,42,42
+Banana Yelakki,500 Gm ,5,45,84,79
+Litchi (Lychee),250 Gms,1205,282,166,166
+Litchi (Lychee),500 Gms,294,282,332,312
+Sapota [Chikoo],250 Gms,1047,74,26,26
+Sapota [Chikoo],500 Gms,34,74,52,49
+Papaya Chunks,500 Gms,692,560,82,82
+Papaya,1 Pc (800 Gms - 1.4 Kg),1153,200,113,100
+Pomegranate,4 Pcs (700-800 Gms),31,71,339,319
+Pomegranate,2 Pcs (350-400 Gms),614,71,179,179
+Pomegranate Premium,2 Pcs (450+ Gms),637,127,285,285
+Pomegranate Premium,4 Pcs (900+ Gms),1584,127,350,285
+Pomegranate Arils,1 x (200 Gms),336,129,154,154
+Cold Pressed Pomegranate Juice,250 ML,1446,859,139,129
+Orange Valencia [Imported],4 Pcs (700-750 Gms),106,146,160,135
+Orange Valencia [Imported],2 Pc (350-400 Gms),524,146,80,71
+Sweet Lime [Mosambi],1 Kg (Medium),423,276,145,137
+Sweet Lime [Mosambi],500 Gms,276,276,72,72
+Sweet Lime [Mosambi],2 Kg,1040,276,290,257
+Orange Mandarin [Imported],1 Kg,657,143,388,344
+Orange Mandarin [Imported],250 Gms,1386,143,97,97
+Orange Mandarin [Imported],500 Gms,103,143,194,183
+Cold Pressed Valencia Orange Juice,250 ML,1444,857,109,99
+Cut Pineapple,200 Gms,107,159,121,121
+Pineapple,1 Pc (800 Gms+),30,70,144,144
+Pineapple Chunks,200 Gms,1238,561,93,93
+Pineapple Chunks,500 Gms,693,561,228,214
+Premium Avocado Hass [Imported],2 Pc (180+ g per pc),900,84,236,209
+Premium Avocado Hass [Imported],1 Pc (180+ gms),48,84,118,111
+Avocado Hass [Imported],1 Pc (130-180 Gms per pc),1390,821,98,98
+Pear Green [Imported],4 Pcs (550-650 Gms),29,69,186,176
+Pear Green [Imported],2 Pcs (275-325 Gms),611,69,93,93
+Dragon Fruit [Imported],1 Pc (300 - 350 Gms),21,61,192,139
+Dragon Fruit [Imported],2 Pcs (600-700 Gms),952,61,384,264
+Cut Dragon Fruit,250 Gms,1406,829,96,96
+Kiwi Green [Imported],3 Pcs,172,203,135,135
+Cut Kiwi Green,250 Gms,1405,828,174,174
+Kimia Dates [Imported],400 Gms,144,108,279,279
+Peeled Jackfruit,200 Gms,1635,371,55,55
+Mango Kesar,1 Kg (4-5 Pcs),436,393,227,227
+Mango Alphonso Ratnagiri (Large) - 6 Pcs,6 Pcs (220-250g per pc),382,314,647,574
+Mango Alphonso Ratnagiri (Large) - 12 Pcs,12 Pcs (220-250 g per pc),1507,910,1294,1123
+Mango Alphonso Ratnagiri (Large) - 1 Pc,1 Pc (220-250g),1542,937,114,114
+Mango Alphonso Ratnagiri (Medium) -  6 pcs,6 Pcs (180 - 220g per pc),386,352,514,456
+Cold Pressed Mango Juice,250 ML,1436,852,89,80
+Mango Alphonso Ratnagiri (Medium) -  12 pcs,12 Pcs (180 - 220g per pc),1506,909,1028,892
+Mango Alphonso Ratnagiri (Medium)-  1 pc,1 Pc (180 - 220g per pc),1181,694,86,87
+Mango Alphonso Ratnagiri (Extra Large) - 6 Pcs,6 Pc (250-300g per pc),1576,961,764,678
+Mango Totapuri (Raw),500 Gms,373,333,53,53
+Mango Totapuri (Raw),1 Kg,344,333,107,101
+Mango Alphonso Ratnagiri (Extra Large) - 12 Pcs,12 Pcs (250-300g per pc),391,353,1528,1327
+Mango Badami (Medium) - 3 Pcs,3 Pcs (250-300g per pc),1517,919,239,159
+Mango Totapuri (Ripe),1 Kg,1243,739,154,154
+Mango Totapuri (Ripe),500 Gms,1592,739,99,99
+Mango Alphonso Ratnagiri  (Large) - 2 Pcs,2 Pcs (220-250g),1531,931,203,203
+Mango Badami (Large) - 3 Pcs,3 Pcs (350-400g per pc),1574,959,340,340
+Mango Alphonso Ratnagiri (Medium) -  2 Pc,2 Pcs (180-220g),1530,930,171,171
+Mango Alphonso Ratnagiri (Extra Large) - 2 Pcs,2 Pc (250-300g per pc),1577,962,382,360
+Mango Badami (Large) - 6 Pcs,6 Pcs (350-400g per pc),1575,960,472,444
+Mango Badami (Medium) - 6 Pcs,6 Pcs (250-300g per pc),1518,920,254,254
+Mango Alphonso Ratnagiri (Extra Large) - 1 Pc,1 Pc (250-300g per pc),1578,963,188,188
+Premium Apple Royal Gala [Imported],4 Pcs (600-800 Gms),2,42,269,254
+Premium Apple Royal Gala [Imported],2 Pcs (300-400 Gms),898,42,133,133
+Regular Apple Royal Gala [Imported],4 Pcs (480-550 Gms),1396,823,197,186
+Apple Granny Smith [Imported],2 Pcs (250-300 Gms),612,41,167,167
+Apple Granny Smith [Imported],4 Pcs (560-750 Gms),1604,41,314,314
+Apple Granny Smith [Imported],4 Pcs (500-600 Gms),1,41,333,314
+Cold Pressed Apple Juice,250 ML,1447,860,139,129
+Apple Washington [Imported],2 Pcs (250-300 Gms),613,88,155,155
+Apple Washington [Imported],4 Pcs (500-550 Gms),71,88,306,288
+Apple Fuji [Imported],2 Pcs,893,95,266,266
+Apple Fuji [Imported],4 Pcs (500-600 Gms),69,95,466,439
+Apple Red Delicious [Imported],1 Kg,70,96,422,422
+Cold Pressed Pineapple Juice,250 ML,1445,858,109,99
+Cold Pressed Guava Juice,250 ML,1437,853,89,80
+Cold Pressed Sugar Cane Juice,250 ML,1435,851,79,71
+Frozen Strawberry,150 Gms,725,589,200,200
+Frozen Sweet Cherry,200 Gms,730,594,270,270
+Pluckk Medjoul Dates,250 Gms,1555,674,454,431
+Pluckk Medjoul Dates,500 Gms,1148,674,907,862
+Banana Red,3 Pcs,78,104,80,80
+Banana Red,6 Pcs,921,104,160,150
+Banana Nendran,3 Pcs,77,105,79,79
+Banana Nendran,6 Pcs,919,105,157,148
+Sweet Tamarind,250 Gms,332,335,111,111
+Sweet Tamarind,2x (250 Gms),835,335,222,208
+Pluckk Ajwa Dates,250 Gms,1553,672,373,354
+Pluckk Ajwa Dates,500 Gms,1146,672,745,708
+Pluckk Safawi Dates,250 Gms,1554,673,283,269
+Pluckk Safawi Dates,500 Gms,1147,673,566,538

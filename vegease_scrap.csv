@@ -1,0 +1,68 @@
+SKU,id,Uom,Max price,Discounted price
+tender coconut,5fc514c48ae82d37ec4f821e,1 Piece,90.0,65.0
+apple  kinnor,5fec2525b1414f3080d3c7d0,500 Gm,100.0,65.0
+coconut husk,615d7ba6b7218dacf7d894d7,1 Piece,35.0,27.0
+ginger,5fc514dc8ae82d37ec4f82cd,250 Gm,50.0,42.0
+hybrid tomato,5fec26bbb1414f3080d3c7db,1 Kg,78.0,28.0
+banana premium,5fc514c48ae82d37ec4f8218,500 Gm,40.0,26.0
+fresh mosambi,5fc514c48ae82d37ec4f8226,500 Gm,60.0,30.0
+kiwi,5fc514c48ae82d37ec4f823e,1 Piece,45.0,22.0
+desi tomato,5fec2661b1414f3080d3c7d8,1 Kg,42.0,28.0
+dragon fruit,61e51a8055b2b13a1966bd22,1 Piece,100.0,60.0
+lemon,5fc514dc8ae82d37ec4f82d6,250 Gm,70.0,35.0
+mandarin orange,6364fdaedc08554fa2b9e122,500 Gm,95.0,75.0
+mango alphonso,6603b88d3d657042e2f6ea0a,1 Piece,60.0,39.0
+pineapple,6002fccf968ca61e8926e7af,1 Piece,90.0,50.0
+thai guava,61a9f15f2841b4645c356002,1 Piece,70.0,35.0
+papaya (700 gm-1.25kg),650e8b1c46e123accbcc0a56,1 Piece,70.0,45.0
+avocado imported,5ff6739536a4ce1fca8f2bc7,1 Piece,180.0,110.0
+sweet tamarind 250gm,63a998028e27ed96a54833cb,1 Piece,100.0,60.0
+sweet corn peeled (200gm),5fc514dc8ae82d37ec4f82eb,1 Piece,24.0,20.0
+baby corn (200 gm),5fc514db8ae82d37ec4f8282,1 Piece,60.0,36.0
+english cucumber,5ff6aac836a4ce1fca8f2c48,500 Gm,16.0,14.0
+lotus stem,5fff3c10333a0a033f95f3c8,250 Gm,30.0,18.0
+mushrooms button (200 gm),6013ab60e677f4496110c697,1 Piece,50.0,40.0
+red cabbage,6571bb7dec9b577f8536f518,1 Piece,45.0,30.0
+watermelon,602d5d18b9b2de6c8a5d10e9,1 Piece,100.0,40.0
+hybrid kheera,5ff6a9ea36a4ce1fca8f2c30,500 Gm,30.0,10.0
+musk melon,655ee0be6d8f3e14bef8fbdb,1 Piece,65.0,36.0
+pomegranate,5fc514c48ae82d37ec4f822c,500 Gm,70.0,45.0
+bel patra,61baf61f3905850e8b4ebf02,1 Piece,45.0,19.0
+chiku - sapota (partial ripe ),5fc514c48ae82d37ec4f822e,500 Gm,50.0,26.0
+anjeer (150g),63a05f483a7ef24ea122cc45,1 Piece,100.0,70.0
+green grapes (400gm-450gm),5fc514c48ae82d37ec4f823a,500 Gm,60.0,50.0
+mango dasheri,60c091e8a61283fbc4f2fc53,500 Gm,100.0,65.0
+mango kesar,60926205db80d4143e029679,500 Gm,100.0,70.0
+mango pairi,6603bf233d657042e2f6ed83,1 Piece,80.0,45.0
+mango safeda,6045ce6abb54d22b0be192df,500 Gm,70.0,45.0
+potato,637471b91603bb95cfb52082,1 Kg,34.0,28.0
+small pumpkin,5fc514dc8ae82d37ec4f82e5,500 Gm,30.0,10.0
+bhindi,5fec277ab1414f3080d3c7e2,500 Gm,50.0,25.0
+onion,637c5cd85305213071359612,1 Kg,50.0,30.0
+sponge gourd,5fec32c1b1414f3080d3c82c,500 Gm,36.0,25.0
+brinjal nagpur,5fc514db8ae82d37ec4f8258,500 Gm,36.0,15.0
+raw mango (450g-550g),606c059d375c5a2f33c05f05,500 Gm,50.0,28.0
+cauliflower (600-750gm),650e8c9d46e123accbcc0a9c,1 Piece,36.0,35.0
+bitter gourd,5fc514db8ae82d37ec4f82a9,400 Gm,36.0,12.0
+arbi-colocasia,5fc514dc8ae82d37ec4f82c1,500 Gm,60.0,25.0
+ash gourd (juice),60f8fbff042dc75fc8ed2607,1 Kg,60.0,45.0
+baby potato,5fc514dc8ae82d37ec4f82e2,1 Kg,30.0,17.0
+beetroot,5fc514db8ae82d37ec4f82a6,650 Gm,31.2,20.799999999999997
+bottle gourd round,5fffe2d2688de43067221269,500 Gm,40.0,15.0
+brinjal - bharta (700g-800g),5fc514dc8ae82d37ec4f82af,750 Gm,45.0,18.0
+brinjal green,5fc514dc8ae82d37ec4f82b2,500 Gm,30.0,15.0
+capsicum green,5fc514dc8ae82d37ec4f82b8,500 Gm,45.0,15.0
+french beans,5fc514db8ae82d37ec4f825e,500 Gm,45.0,25.0
+onion sambar,61437924e2b0dd99827b86af,1 Kg,60.0,25.0
+raw banana,5fff40bfe75cb611196021d3,650 Gm,31.2,26.0
+raw papaya,5fff4137e75cb611196021d6,500 Gm,25.0,24.0
+red carrot,5fec27ddb1414f3080d3c7e6,1 Kg,32.0,26.0
+red potato,650191268750761db4dd5c1b,1 Kg,40.0,28.0
+tinda,5fec30e7b1414f3080d3c801,500 Gm,24.0,13.0
+bottle gourd,650e8e6246e123accbcc0b0e,1 Piece,32.0,15.0
+cabbage,650e8db146e123accbcc0ad4,1 Piece,24.0,17.0
+coriander leaves,5fc514dc8ae82d37ec4f82c4,250 Gm,20.0,17.5
+mint leaves,5fec293db1414f3080d3c7f8,100 Gm,18.0,7.0
+curry leaves,5fff33d6333a0a033f95f339,150 Gm,15.0,6.0
+garlic,5fc514dc8ae82d37ec4f82ca,250 Gm,100.0,37.0
+green chilli,5fc514dc8ae82d37ec4f82d0,250 Gm,35.0,12.5
