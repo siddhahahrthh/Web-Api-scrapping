@@ -2,7 +2,7 @@
 import requests
 import pandas as pd
 
-url = "https://api.crofarm.com/otipy/products/v3"
+url = "#"
 ans = {"SKU" : [] , "id" : [] , "Uom" : [], "Max price" : [], "Discounted price" : []}
 
 for x in range(1 , 3):
